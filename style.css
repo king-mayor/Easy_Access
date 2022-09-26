@@ -270,7 +270,7 @@ html{
         width: 70px;
     }
     .nav2 {
-        position: fixed;
+        position: absolute;
         left: -100%;
         top: 60px;
         width: 100%;
