@@ -117,7 +117,7 @@ html{
 .container2 {
     display: flex;
     justify-content: space-around;
-    background-image: url(images/bg-curve-desktop.svg);
+    background-image: url(./IMAGES/bg-curve-desktop.svg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
