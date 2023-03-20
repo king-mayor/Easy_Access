@@ -108,9 +108,6 @@ html{
     margin-top: 15px;
     line-height: 25px;
 }
-.first-container {
-    width: 550px;
-}
 .first-container1{
     width: 250px;
 }
@@ -122,9 +119,8 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 100px;
-    padding-top: 120px;
+    padding: 120px 20px 0px 20px;
     height: 700px;
-    width: 100%;
 }
 .first1 img{
    width: 15px;
@@ -417,9 +413,6 @@ html{
     .first-container1 ul li a {
         font-size: 0.8em;
     }
-    .first-container1 {
-        width: 250px;
-    }
     .first-container2 {
         margin-bottom: 100px;
     }
@@ -453,9 +446,6 @@ html{
     }
     .first-container1 ul li a {
         font-size: 0.8em;
-    }
-    .first-container1 {
-        width: 200px;
     }
     .container3 {
         flex-direction: column;
